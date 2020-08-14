@@ -7,6 +7,7 @@
 ## 运行
 ```
 1.运行phpstudy
+    打开Mysql服务
 2.运行navicat
     建立crud数据库
     导入表crud.sql----表在根目录里
